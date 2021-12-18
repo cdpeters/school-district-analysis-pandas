@@ -130,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+cleaning_data.ipynb
+cleaning_student_names.ipynb
+resources/missing_grades.csv
