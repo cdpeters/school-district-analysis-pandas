@@ -279,9 +279,9 @@ DataFrame of interest as follows:
 <br />
 
 ## **Summary**
-In conclusion, the main affects of removing the THS 9th grade scores were to
-decrease, almost across the board, the performance results of the district as a
-whole and Thomas High School in particular. The overall passing percentage
+In conclusion, the main effect of removing the THS 9th grade scores was a
+decrease, almost across the board, in the performance results of the district as
+a whole and Thomas High School in particular. The overall passing percentage
 underwent the biggest change, dropping by 0.3 percentage points for both the
 district and THS. The results by school spending range also saw a decrease in
 performance particularly in the reading and overall passing rates. Lastly, the
